@@ -26,7 +26,7 @@ Apply multivariate statistical techniques to analyze and interpret the **Credit*
 - [`Proyecto_Multi_2.ipynb`](./Proyecto_Multi_2.ipynb): Jupyter notebook containing the Python code used for analysis.
 - [`Credit.csv`](./Credit.csv): Dataset used for the project.
 
-## 👨‍💻 Authors
+## 👨‍💻 Authors: 
 
 -Torres Ferrer Luis Noe
 -Hernadez Estrada Yahir Emiliano
